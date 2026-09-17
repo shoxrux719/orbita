@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "food-ingredient",
+    "word": "ingredient",
+    "ru": "ингредиент",
+    "example": "Flour is the main ingredient in this recipe.",
+    "topic": "Еда и кухня",
+    "level": "B1"
+  },
+  {
+    "id": "food-recipe",
+    "word": "recipe",
+    "ru": "рецепт блюда",
+    "example": "This recipe makes enough soup for four people.",
+    "topic": "Еда и кухня",
+    "level": "A2"
+  },
+  {
+    "id": "food-flavor",
+    "word": "flavor",
+    "ru": "вкус",
+    "example": "The lemon gives the cake a fresh flavor.",
+    "topic": "Еда и кухня",
+    "level": "B1"
+  },
+  {
+    "id": "food-breakfast",
+    "word": "breakfast",
+    "ru": "завтрак",
+    "example": "I eat breakfast before I leave home.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-lunch",
+    "word": "lunch",
+    "ru": "обед",
+    "example": "We have lunch together on Fridays.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-dinner",
+    "word": "dinner",
+    "ru": "ужин",
+    "example": "Dinner will be ready in ten minutes.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-snack",
+    "word": "snack",
+    "ru": "перекус",
+    "example": "I packed an apple for a snack.",
+    "topic": "Еда и кухня",
+    "level": "A2"
+  },
+  {
+    "id": "food-bread",
+    "word": "bread",
+    "ru": "хлеб",
+    "example": "Would you like some bread with your soup?",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-butter",
+    "word": "butter",
+    "ru": "сливочное масло",
+    "example": "Spread a little butter on the warm toast.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-cheese",
+    "word": "cheese",
+    "ru": "сыр",
+    "example": "There is some cheese in the fridge.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-egg",
+    "word": "egg",
+    "ru": "яйцо",
+    "example": "I boiled an egg for breakfast.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-rice",
+    "word": "rice",
+    "ru": "рис",
+    "example": "Serve the vegetables with rice.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-pasta",
+    "word": "pasta",
+    "ru": "макаронные изделия; паста",
+    "example": "The pasta needs two more minutes.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-flour",
+    "word": "flour",
+    "ru": "мука",
+    "example": "Add the flour slowly and stir.",
+    "topic": "Еда и кухня",
+    "level": "A2"
+  },
+  {
+    "id": "food-sugar",
+    "word": "sugar",
+    "ru": "сахар",
+    "example": "I drink my tea without sugar.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-salt",
+    "word": "salt",
+    "ru": "соль",
+    "example": "This soup needs a little salt.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-pepper",
+    "word": "pepper",
+    "ru": "перец",
+    "example": "Add black pepper before serving.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-honey",
+    "word": "honey",
+    "ru": "мёд",
+    "example": "She put a spoonful of honey in her tea.",
+    "topic": "Еда и кухня",
+    "level": "A2"
+  },
+  {
+    "id": "food-vinegar",
+    "word": "vinegar",
+    "ru": "уксус",
+    "example": "Mix the oil and vinegar in a small bowl.",
+    "topic": "Еда и кухня",
+    "level": "A2"
+  },
+  {
+    "id": "food-garlic",
+    "word": "garlic",
+    "ru": "чеснок",
+    "example": "Chop the garlic into small pieces.",
+    "topic": "Еда и кухня",
+    "level": "A2"
+  },
+  {
+    "id": "food-onion",
+    "word": "onion",
+    "ru": "лук; луковица",
+    "example": "Slice one onion for the salad.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-carrot",
+    "word": "carrot",
+    "ru": "морковь; морковка",
+    "example": "I grated a carrot into the soup.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-cucumber",
+    "word": "cucumber",
+    "ru": "огурец",
+    "example": "Cut the cucumber into thin slices.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "food-kettle",
+    "word": "kettle",
+    "ru": "чайник для кипячения воды",
+    "example": "Fill the kettle with fresh water.",
+    "topic": "Еда и кухня",
+    "level": "A2"
+  },
+  {
+    "id": "food-spoon",
+    "word": "spoon",
+    "ru": "ложка",
+    "example": "Use a spoon to stir the sauce.",
+    "topic": "Еда и кухня",
+    "level": "A1"
+  },
+  {
+    "id": "home-ceiling",
+    "word": "ceiling",
+    "ru": "потолок",
+    "example": "The ceiling in this room is very high.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-floor",
+    "word": "floor",
+    "ru": "пол",
+    "example": "Please pick your coat up off the floor.",
+    "topic": "Дом и быт",
+    "level": "A1"
+  },
+  {
+    "id": "home-wall",
+    "word": "wall",
+    "ru": "стена",
+    "example": "We hung a picture on the wall.",
+    "topic": "Дом и быт",
+    "level": "A1"
+  },
+  {
+    "id": "home-window",
+    "word": "window",
+    "ru": "окно",
+    "example": "Open the window for some fresh air.",
+    "topic": "Дом и быт",
+    "level": "A1"
+  },
+  {
+    "id": "home-door",
+    "word": "door",
+    "ru": "дверь",
+    "example": "Please close the door quietly.",
+    "topic": "Дом и быт",
+    "level": "A1"
+  },
+  {
+    "id": "home-roof",
+    "word": "roof",
+    "ru": "крыша",
+    "example": "The roof needs repairs before winter.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-shelf",
+    "word": "shelf",
+    "ru": "полка",
+    "example": "Put the towels on the top shelf.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-drawer",
+    "word": "drawer",
+    "ru": "выдвижной ящик",
+    "example": "The scissors are in the kitchen drawer.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-wardrobe",
+    "word": "wardrobe",
+    "ru": "платяной шкаф",
+    "example": "My winter coat is in the wardrobe.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-mirror",
+    "word": "mirror",
+    "ru": "зеркало",
+    "example": "There is a mirror above the sink.",
+    "topic": "Дом и быт",
+    "level": "A1"
+  },
+  {
+    "id": "home-curtain",
+    "word": "curtain",
+    "ru": "занавеска; штора",
+    "example": "A thin curtain covers the window.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-carpet",
+    "word": "carpet",
+    "ru": "ковёр; ковровое покрытие",
+    "example": "The children are sitting on the carpet.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-pillow",
+    "word": "pillow",
+    "ru": "подушка",
+    "example": "I need another pillow for the guest bed.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-blanket",
+    "word": "blanket",
+    "ru": "одеяло; плед",
+    "example": "Take a blanket if you feel cold.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-towel",
+    "word": "towel",
+    "ru": "полотенце",
+    "example": "Hang your towel behind the door.",
+    "topic": "Дом и быт",
+    "level": "A1"
+  },
+  {
+    "id": "home-sink",
+    "word": "sink",
+    "ru": "раковина",
+    "example": "The dirty plates are in the sink.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-faucet",
+    "word": "faucet",
+    "ru": "водопроводный кран",
+    "example": "Turn off the faucet after washing your hands.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-socket",
+    "word": "socket",
+    "ru": "электрическая розетка",
+    "example": "There is a socket behind the sofa.",
+    "topic": "Дом и быт",
+    "level": "B1"
+  },
+  {
+    "id": "home-appliance",
+    "word": "appliance",
+    "ru": "бытовой прибор",
+    "example": "Unplug the appliance before cleaning it.",
+    "topic": "Дом и быт",
+    "level": "B1"
+  },
+  {
+    "id": "home-laundry",
+    "word": "laundry",
+    "ru": "бельё для стирки; стирка",
+    "example": "I do the laundry on Sunday mornings.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-detergent",
+    "word": "detergent",
+    "ru": "моющее средство",
+    "example": "Add a small amount of detergent to the washing machine.",
+    "topic": "Дом и быт",
+    "level": "B1"
+  },
+  {
+    "id": "home-vacuum-cleaner",
+    "word": "vacuum cleaner",
+    "ru": "пылесос",
+    "example": "The vacuum cleaner is under the stairs.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-rubbish",
+    "word": "rubbish",
+    "ru": "мусор",
+    "example": "Take the rubbish out before you leave.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-rent",
+    "word": "rent",
+    "ru": "арендная плата",
+    "example": "The rent includes heating and water.",
+    "topic": "Дом и быт",
+    "level": "A2"
+  },
+  {
+    "id": "home-neighbor",
+    "word": "neighbor",
+    "ru": "сосед; соседка",
+    "example": "Our neighbor waters our plants when we travel.",
+    "topic": "Дом и быт",
+    "level": "A1"
+  },
+  {
+    "id": "health-shoulder",
+    "word": "shoulder",
+    "ru": "плечо",
+    "example": "My bag keeps slipping off my shoulder.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-elbow",
+    "word": "elbow",
+    "ru": "локоть",
+    "example": "Rest your elbow on the table.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-wrist",
+    "word": "wrist",
+    "ru": "запястье",
+    "example": "She wears a watch on her left wrist.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-thumb",
+    "word": "thumb",
+    "ru": "большой палец руки",
+    "example": "I cut my thumb while peeling an apple.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-knee",
+    "word": "knee",
+    "ru": "колено",
+    "example": "He fell and hurt his knee.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-ankle",
+    "word": "ankle",
+    "ru": "лодыжка; щиколотка",
+    "example": "My ankle is swollen after the fall.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-heel",
+    "word": "heel",
+    "ru": "пятка",
+    "example": "My new shoe rubs against my heel.",
+    "topic": "Здоровье и тело",
+    "level": "B1"
+  },
+  {
+    "id": "health-chest",
+    "word": "chest",
+    "ru": "грудь; грудная клетка",
+    "example": "The doctor listened to my chest.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-throat",
+    "word": "throat",
+    "ru": "горло",
+    "example": "My throat hurts when I swallow.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-stomach",
+    "word": "stomach",
+    "ru": "желудок; живот",
+    "example": "My stomach feels better after some rest.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-skin",
+    "word": "skin",
+    "ru": "кожа",
+    "example": "This soap makes my skin feel dry.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-muscle",
+    "word": "muscle",
+    "ru": "мышца",
+    "example": "I pulled a muscle while running.",
+    "topic": "Здоровье и тело",
+    "level": "B1"
+  },
+  {
+    "id": "health-bone",
+    "word": "bone",
+    "ru": "кость",
+    "example": "An X-ray showed a broken bone in his foot.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-blood",
+    "word": "blood",
+    "ru": "кровь",
+    "example": "The nurse took a small sample of blood.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-headache",
+    "word": "headache",
+    "ru": "головная боль",
+    "example": "I have a headache and need some quiet.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-cough",
+    "word": "cough",
+    "ru": "кашель",
+    "example": "Her cough kept her awake all night.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-fever",
+    "word": "fever",
+    "ru": "жар; повышенная температура",
+    "example": "He has a fever and is staying in bed.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-symptom",
+    "word": "symptom",
+    "ru": "симптом",
+    "example": "A sore throat was my first symptom.",
+    "topic": "Здоровье и тело",
+    "level": "B1"
+  },
+  {
+    "id": "health-appointment",
+    "word": "appointment",
+    "ru": "запись на приём; назначенная встреча",
+    "example": "I have a dental appointment tomorrow morning.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-prescription",
+    "word": "prescription",
+    "ru": "рецепт врача",
+    "example": "The doctor gave me a prescription for the medicine.",
+    "topic": "Здоровье и тело",
+    "level": "B1"
+  },
+  {
+    "id": "health-pharmacy",
+    "word": "pharmacy",
+    "ru": "аптека",
+    "example": "The nearest pharmacy is across the street.",
+    "topic": "Здоровье и тело",
+    "level": "A2"
+  },
+  {
+    "id": "health-bandage",
+    "word": "bandage",
+    "ru": "бинт; повязка",
+    "example": "Keep the bandage clean and dry.",
+    "topic": "Здоровье и тело",
+    "level": "B1"
+  },
+  {
+    "id": "health-recovery",
+    "word": "recovery",
+    "ru": "выздоровление; восстановление",
+    "example": "Her recovery took several weeks.",
+    "topic": "Здоровье и тело",
+    "level": "B1"
+  },
+  {
+    "id": "health-breath",
+    "word": "breath",
+    "ru": "вдох; дыхание",
+    "example": "Take a slow breath before you begin.",
+    "topic": "Здоровье и тело",
+    "level": "B1"
+  },
+  {
+    "id": "health-balance",
+    "word": "balance",
+    "ru": "равновесие",
+    "example": "I lost my balance on the wet steps.",
+    "topic": "Здоровье и тело",
+    "level": "B1"
+  },
+  {
+    "id": "technology-device",
+    "word": "device",
+    "ru": "устройство",
+    "example": "You can connect one device at a time.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-screen",
+    "word": "screen",
+    "ru": "экран",
+    "example": "The text on the screen is too small.",
+    "topic": "Технологии",
+    "level": "A1"
+  },
+  {
+    "id": "technology-keyboard",
+    "word": "keyboard",
+    "ru": "клавиатура",
+    "example": "I spilled water on my keyboard.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-mouse",
+    "word": "mouse",
+    "ru": "компьютерная мышь",
+    "example": "Click the button with your mouse.",
+    "topic": "Технологии",
+    "level": "A1"
+  },
+  {
+    "id": "technology-charger",
+    "word": "charger",
+    "ru": "зарядное устройство",
+    "example": "I left my phone charger at home.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-battery",
+    "word": "battery",
+    "ru": "батарея; аккумулятор",
+    "example": "The battery lasts all day.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-cable",
+    "word": "cable",
+    "ru": "кабель",
+    "example": "This cable connects the monitor to the computer.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-password",
+    "word": "password",
+    "ru": "пароль",
+    "example": "Choose a different password for each account.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-account",
+    "word": "account",
+    "ru": "учётная запись",
+    "example": "I created an account to save my progress.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-username",
+    "word": "username",
+    "ru": "имя пользователя",
+    "example": "Enter your username in the first box.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-file",
+    "word": "file",
+    "ru": "файл",
+    "example": "Save the file before closing the program.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-folder",
+    "word": "folder",
+    "ru": "папка",
+    "example": "Move the photos into a new folder.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-browser",
+    "word": "browser",
+    "ru": "браузер",
+    "example": "Open the page in your browser.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-website",
+    "word": "website",
+    "ru": "веб-сайт",
+    "example": "The website has a useful search tool.",
+    "topic": "Технологии",
+    "level": "A1"
+  },
+  {
+    "id": "technology-link",
+    "word": "link",
+    "ru": "ссылка",
+    "example": "Click the link to see the full article.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-download",
+    "word": "download",
+    "ru": "скачивать",
+    "example": "You can download the guide as a PDF.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-upload",
+    "word": "upload",
+    "ru": "загружать на сервер",
+    "example": "Please upload a clear photo of the document.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-update",
+    "word": "update",
+    "ru": "обновление",
+    "example": "The latest update fixed the sound problem.",
+    "topic": "Технологии",
+    "level": "A2"
+  },
+  {
+    "id": "technology-backup",
+    "word": "backup",
+    "ru": "резервная копия",
+    "example": "Keep a backup of your important files.",
+    "topic": "Технологии",
+    "level": "B1"
+  },
+  {
+    "id": "technology-storage",
+    "word": "storage",
+    "ru": "хранилище; место для хранения",
+    "example": "My phone is running out of storage.",
+    "topic": "Технологии",
+    "level": "B1"
+  },
+  {
+    "id": "technology-network",
+    "word": "network",
+    "ru": "сеть",
+    "example": "This network is only available inside the building.",
+    "topic": "Технологии",
+    "level": "B1"
+  },
+  {
+    "id": "technology-software",
+    "word": "software",
+    "ru": "программное обеспечение",
+    "example": "The software lets you edit photos.",
+    "topic": "Технологии",
+    "level": "B1"
+  },
+  {
+    "id": "technology-hardware",
+    "word": "hardware",
+    "ru": "аппаратное обеспечение",
+    "example": "Old hardware can make a computer run slowly.",
+    "topic": "Технологии",
+    "level": "B1"
+  },
+  {
+    "id": "technology-privacy",
+    "word": "privacy",
+    "ru": "конфиденциальность; частная жизнь",
+    "example": "Check your privacy settings before sharing photos.",
+    "topic": "Технологии",
+    "level": "B1"
+  },
+  {
+    "id": "technology-encryption",
+    "word": "encryption",
+    "ru": "шифрование",
+    "example": "The app uses encryption to protect messages.",
+    "topic": "Технологии",
+    "level": "B2"
+  },
+  {
+    "id": "business-budget",
+    "word": "budget",
+    "ru": "бюджет",
+    "example": "We have a small budget for office supplies.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-income",
+    "word": "income",
+    "ru": "доход",
+    "example": "Her monthly income covers all her expenses.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-expense",
+    "word": "expense",
+    "ru": "расход",
+    "example": "Fuel is our biggest travel expense.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-profit",
+    "word": "profit",
+    "ru": "прибыль",
+    "example": "The shop made a small profit last month.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-loss",
+    "word": "loss",
+    "ru": "убыток; потеря",
+    "example": "The company reported a loss this year.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-revenue",
+    "word": "revenue",
+    "ru": "выручка",
+    "example": "Most of our revenue comes from online sales.",
+    "topic": "Бизнес и деньги",
+    "level": "B2"
+  },
+  {
+    "id": "business-salary",
+    "word": "salary",
+    "ru": "оклад; зарплата",
+    "example": "The job offers a higher salary.",
+    "topic": "Бизнес и деньги",
+    "level": "A2"
+  },
+  {
+    "id": "business-wage",
+    "word": "wage",
+    "ru": "заработная плата; ставка оплаты",
+    "example": "The company pays a fair hourly wage.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-savings",
+    "word": "savings",
+    "ru": "сбережения",
+    "example": "She used her savings to buy a bicycle.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-debt",
+    "word": "debt",
+    "ru": "долг; задолженность",
+    "example": "They are working to pay off their debt.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-loan",
+    "word": "loan",
+    "ru": "заём; кредит",
+    "example": "We took out a loan to buy the equipment.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-interest",
+    "word": "interest",
+    "ru": "проценты по вкладу или кредиту",
+    "example": "The bank pays interest on this account.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-invoice",
+    "word": "invoice",
+    "ru": "счёт на оплату",
+    "example": "Please send the invoice by email.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-receipt",
+    "word": "receipt",
+    "ru": "чек; квитанция об оплате",
+    "example": "Keep your receipt in case you return the shoes.",
+    "topic": "Бизнес и деньги",
+    "level": "A2"
+  },
+  {
+    "id": "business-refund",
+    "word": "refund",
+    "ru": "возврат денег",
+    "example": "I asked for a refund for the damaged item.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-discount",
+    "word": "discount",
+    "ru": "скидка",
+    "example": "Students get a discount on tickets.",
+    "topic": "Бизнес и деньги",
+    "level": "A2"
+  },
+  {
+    "id": "business-fee",
+    "word": "fee",
+    "ru": "плата за услугу; сбор",
+    "example": "There is a small fee for delivery.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-contract",
+    "word": "contract",
+    "ru": "договор; контракт",
+    "example": "Read the contract before you sign it.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-customer",
+    "word": "customer",
+    "ru": "покупатель; клиент",
+    "example": "A customer asked about the new model.",
+    "topic": "Бизнес и деньги",
+    "level": "A2"
+  },
+  {
+    "id": "business-supplier",
+    "word": "supplier",
+    "ru": "поставщик",
+    "example": "Our supplier delivers fresh fruit every morning.",
+    "topic": "Бизнес и деньги",
+    "level": "B1"
+  },
+  {
+    "id": "business-investment",
+    "word": "investment",
+    "ru": "инвестиция; вложение",
+    "example": "The new equipment is a major investment.",
+    "topic": "Бизнес и деньги",
+    "level": "B2"
+  },
+  {
+    "id": "business-negotiation",
+    "word": "negotiation",
+    "ru": "переговоры",
+    "example": "The price is still open to negotiation.",
+    "topic": "Бизнес и деньги",
+    "level": "B2"
+  },
+  {
+    "id": "business-proposal",
+    "word": "proposal",
+    "ru": "предложение; проект предложения",
+    "example": "We discussed her proposal at the meeting.",
+    "topic": "Бизнес и деньги",
+    "level": "B2"
+  },
+  {
+    "id": "business-strategy",
+    "word": "strategy",
+    "ru": "стратегия",
+    "example": "The team needs a clear strategy for growth.",
+    "topic": "Бизнес и деньги",
+    "level": "B2"
+  },
+  {
+    "id": "business-forecast",
+    "word": "forecast",
+    "ru": "прогноз",
+    "example": "The sales forecast looks promising.",
+    "topic": "Бизнес и деньги",
+    "level": "B2"
+  },
+  {
+    "id": "city-pavement",
+    "word": "pavement",
+    "ru": "тротуар",
+    "example": "Keep your bicycle off the pavement.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-crosswalk",
+    "word": "crosswalk",
+    "ru": "пешеходный переход",
+    "example": "Use the crosswalk to get to the library.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-intersection",
+    "word": "intersection",
+    "ru": "перекрёсток",
+    "example": "Turn left at the next intersection.",
+    "topic": "Город и транспорт",
+    "level": "B1"
+  },
+  {
+    "id": "city-roundabout",
+    "word": "roundabout",
+    "ru": "перекрёсток с круговым движением",
+    "example": "Take the second exit at the roundabout.",
+    "topic": "Город и транспорт",
+    "level": "B1"
+  },
+  {
+    "id": "city-traffic-light",
+    "word": "traffic light",
+    "ru": "светофор",
+    "example": "Stop when the traffic light turns red.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-bus-stop",
+    "word": "bus stop",
+    "ru": "автобусная остановка",
+    "example": "The bus stop is outside the supermarket.",
+    "topic": "Город и транспорт",
+    "level": "A1"
+  },
+  {
+    "id": "city-station",
+    "word": "station",
+    "ru": "станция; вокзал",
+    "example": "Meet me at the station at six.",
+    "topic": "Город и транспорт",
+    "level": "A1"
+  },
+  {
+    "id": "city-platform",
+    "word": "platform",
+    "ru": "платформа; перрон",
+    "example": "Our train leaves from platform four.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-timetable",
+    "word": "timetable",
+    "ru": "расписание",
+    "example": "Check the timetable before you leave.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-ticket",
+    "word": "ticket",
+    "ru": "билет",
+    "example": "I bought a ticket for the morning train.",
+    "topic": "Город и транспорт",
+    "level": "A1"
+  },
+  {
+    "id": "city-fare",
+    "word": "fare",
+    "ru": "плата за проезд",
+    "example": "The bus fare is cheaper with a travel card.",
+    "topic": "Город и транспорт",
+    "level": "B1"
+  },
+  {
+    "id": "city-passenger",
+    "word": "passenger",
+    "ru": "пассажир",
+    "example": "Every passenger needs a valid ticket.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-driver",
+    "word": "driver",
+    "ru": "водитель",
+    "example": "The driver waited for us to sit down.",
+    "topic": "Город и транспорт",
+    "level": "A1"
+  },
+  {
+    "id": "city-seat",
+    "word": "seat",
+    "ru": "сиденье; место",
+    "example": "Is this seat free?",
+    "topic": "Город и транспорт",
+    "level": "A1"
+  },
+  {
+    "id": "city-route",
+    "word": "route",
+    "ru": "маршрут",
+    "example": "This route takes us past the park.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-delay",
+    "word": "delay",
+    "ru": "задержка",
+    "example": "There is a short delay because of heavy traffic.",
+    "topic": "Город и транспорт",
+    "level": "B1"
+  },
+  {
+    "id": "city-traffic-jam",
+    "word": "traffic jam",
+    "ru": "пробка на дороге",
+    "example": "We got stuck in a traffic jam.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-parking-lot",
+    "word": "parking lot",
+    "ru": "автостоянка",
+    "example": "There is a parking lot behind the museum.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-bridge",
+    "word": "bridge",
+    "ru": "мост",
+    "example": "We crossed the bridge on foot.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-tunnel",
+    "word": "tunnel",
+    "ru": "туннель",
+    "example": "The road goes through a long tunnel.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-suburb",
+    "word": "suburb",
+    "ru": "пригород; спальный район",
+    "example": "They live in a quiet suburb near the city.",
+    "topic": "Город и транспорт",
+    "level": "B1"
+  },
+  {
+    "id": "city-neighborhood",
+    "word": "neighborhood",
+    "ru": "район; окрестности",
+    "example": "There are three parks in our neighborhood.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-town-hall",
+    "word": "town hall",
+    "ru": "здание городской администрации",
+    "example": "The meeting will take place at the town hall.",
+    "topic": "Город и транспорт",
+    "level": "A2"
+  },
+  {
+    "id": "city-pedestrian",
+    "word": "pedestrian",
+    "ru": "пешеход",
+    "example": "The driver stopped to let a pedestrian cross.",
+    "topic": "Город и транспорт",
+    "level": "B1"
+  },
+  {
+    "id": "city-commute",
+    "word": "commute",
+    "ru": "регулярная поездка на работу или учёбу",
+    "example": "My daily commute takes forty minutes.",
+    "topic": "Город и транспорт",
+    "level": "B1"
+  },
+  {
+    "id": "nature-forest",
+    "word": "forest",
+    "ru": "лес",
+    "example": "A narrow path leads into the forest.",
+    "topic": "Природа",
+    "level": "A2"
+  },
+  {
+    "id": "nature-meadow",
+    "word": "meadow",
+    "ru": "луг",
+    "example": "Wildflowers grow in the meadow.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-valley",
+    "word": "valley",
+    "ru": "долина",
+    "example": "A river runs through the valley.",
+    "topic": "Природа",
+    "level": "A2"
+  },
+  {
+    "id": "nature-hill",
+    "word": "hill",
+    "ru": "холм",
+    "example": "We climbed the hill to watch the sunset.",
+    "topic": "Природа",
+    "level": "A1"
+  },
+  {
+    "id": "nature-cliff",
+    "word": "cliff",
+    "ru": "скала; отвесный обрыв",
+    "example": "Stay away from the edge of the cliff.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-shore",
+    "word": "shore",
+    "ru": "берег водоёма",
+    "example": "We walked along the shore after lunch.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-coast",
+    "word": "coast",
+    "ru": "морское побережье",
+    "example": "They spent a week on the coast.",
+    "topic": "Природа",
+    "level": "A2"
+  },
+  {
+    "id": "nature-stream",
+    "word": "stream",
+    "ru": "ручей",
+    "example": "A small stream flows behind the house.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-waterfall",
+    "word": "waterfall",
+    "ru": "водопад",
+    "example": "We could hear the waterfall from the path.",
+    "topic": "Природа",
+    "level": "A2"
+  },
+  {
+    "id": "nature-pond",
+    "word": "pond",
+    "ru": "пруд",
+    "example": "There are ducks on the pond.",
+    "topic": "Природа",
+    "level": "A2"
+  },
+  {
+    "id": "nature-soil",
+    "word": "soil",
+    "ru": "почва; грунт",
+    "example": "These plants grow well in sandy soil.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-root",
+    "word": "root",
+    "ru": "корень",
+    "example": "A thick root crossed the path.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-branch",
+    "word": "branch",
+    "ru": "ветка",
+    "example": "A bird landed on the lowest branch.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-leaf",
+    "word": "leaf",
+    "ru": "лист растения",
+    "example": "A yellow leaf fell onto my notebook.",
+    "topic": "Природа",
+    "level": "A2"
+  },
+  {
+    "id": "nature-seed",
+    "word": "seed",
+    "ru": "семя",
+    "example": "Plant each seed in a small pot.",
+    "topic": "Природа",
+    "level": "A2"
+  },
+  {
+    "id": "nature-bud",
+    "word": "bud",
+    "ru": "почка; бутон",
+    "example": "A tiny bud appeared on the rose bush.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-wildlife",
+    "word": "wildlife",
+    "ru": "дикие животные; живая природа",
+    "example": "Please do not feed the wildlife.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-habitat",
+    "word": "habitat",
+    "ru": "естественная среда обитания",
+    "example": "The wetland is an important habitat for birds.",
+    "topic": "Природа",
+    "level": "B2"
+  },
+  {
+    "id": "nature-species",
+    "word": "species",
+    "ru": "вид живых организмов",
+    "example": "Several species of birds nest here.",
+    "topic": "Природа",
+    "level": "B2"
+  },
+  {
+    "id": "nature-drought",
+    "word": "drought",
+    "ru": "засуха",
+    "example": "The drought left the fields dry.",
+    "topic": "Природа",
+    "level": "B2"
+  },
+  {
+    "id": "nature-flood",
+    "word": "flood",
+    "ru": "наводнение",
+    "example": "The flood damaged several roads.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-breeze",
+    "word": "breeze",
+    "ru": "лёгкий ветер; бриз",
+    "example": "A cool breeze came through the window.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-thunder",
+    "word": "thunder",
+    "ru": "гром",
+    "example": "We heard thunder in the distance.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-lightning",
+    "word": "lightning",
+    "ru": "молния",
+    "example": "A flash of lightning lit up the sky.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "nature-frost",
+    "word": "frost",
+    "ru": "мороз; иней",
+    "example": "There was frost on the grass this morning.",
+    "topic": "Природа",
+    "level": "B1"
+  },
+  {
+    "id": "culture-painting",
+    "word": "painting",
+    "ru": "картина; живопись",
+    "example": "That painting shows a village in winter.",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-sculpture",
+    "word": "sculpture",
+    "ru": "скульптура",
+    "example": "A stone sculpture stands near the entrance.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-drawing",
+    "word": "drawing",
+    "ru": "рисунок",
+    "example": "She made a drawing of the old bridge.",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-portrait",
+    "word": "portrait",
+    "ru": "портрет",
+    "example": "He painted a portrait of his grandmother.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-landscape",
+    "word": "landscape",
+    "ru": "пейзаж",
+    "example": "The gallery has a landscape by a local artist.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-exhibition",
+    "word": "exhibition",
+    "ru": "выставка",
+    "example": "The photography exhibition opens on Saturday.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-gallery",
+    "word": "gallery",
+    "ru": "галерея",
+    "example": "We visited a small art gallery downtown.",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-museum",
+    "word": "museum",
+    "ru": "музей",
+    "example": "The museum is closed on Mondays.",
+    "topic": "Искусство и культура",
+    "level": "A1"
+  },
+  {
+    "id": "culture-stage",
+    "word": "stage",
+    "ru": "сцена",
+    "example": "The actors walked onto the stage.",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-audience",
+    "word": "audience",
+    "ru": "аудитория; зрители",
+    "example": "The audience clapped at the end of the play.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-performance",
+    "word": "performance",
+    "ru": "выступление; представление",
+    "example": "Her performance lasted twenty minutes.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-rehearsal",
+    "word": "rehearsal",
+    "ru": "репетиция",
+    "example": "The band has a rehearsal this evening.",
+    "topic": "Искусство и культура",
+    "level": "B2"
+  },
+  {
+    "id": "culture-costume",
+    "word": "costume",
+    "ru": "сценический или карнавальный костюм",
+    "example": "She made her own costume for the play.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-script",
+    "word": "script",
+    "ru": "сценарий; текст пьесы",
+    "example": "The actors read the script together.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-plot",
+    "word": "plot",
+    "ru": "сюжет",
+    "example": "The plot becomes more interesting in the second chapter.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-character",
+    "word": "character",
+    "ru": "персонаж",
+    "example": "My favorite character appears in the first scene.",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-novel",
+    "word": "novel",
+    "ru": "роман",
+    "example": "I finished the novel on the train.",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-poem",
+    "word": "poem",
+    "ru": "стихотворение",
+    "example": "She wrote a short poem about the sea.",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-chapter",
+    "word": "chapter",
+    "ru": "глава книги",
+    "example": "Read the first chapter before our next lesson.",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-melody",
+    "word": "melody",
+    "ru": "мелодия",
+    "example": "I can hum the melody but forget the words.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-rhythm",
+    "word": "rhythm",
+    "ru": "ритм",
+    "example": "Tap your foot to the rhythm.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-lyrics",
+    "word": "lyrics",
+    "ru": "текст песни",
+    "example": "The lyrics are printed inside the album cover.",
+    "topic": "Искусство и культура",
+    "level": "B1"
+  },
+  {
+    "id": "culture-instrument",
+    "word": "instrument",
+    "ru": "музыкальный инструмент",
+    "example": "Do you play a musical instrument?",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-festival",
+    "word": "festival",
+    "ru": "фестиваль; праздник",
+    "example": "The town holds a music festival every summer.",
+    "topic": "Искусство и культура",
+    "level": "A2"
+  },
+  {
+    "id": "culture-heritage",
+    "word": "heritage",
+    "ru": "культурное наследие",
+    "example": "The museum celebrates the region's cultural heritage.",
+    "topic": "Искусство и культура",
+    "level": "B2"
+  },
+  {
+    "id": "relationships-friendship",
+    "word": "friendship",
+    "ru": "дружба",
+    "example": "Their friendship began at school.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-trust",
+    "word": "trust",
+    "ru": "доверие",
+    "example": "Honesty helps build trust between people.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-respect",
+    "word": "respect",
+    "ru": "уважение",
+    "example": "Treat your teammates with respect.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-honesty",
+    "word": "honesty",
+    "ru": "честность",
+    "example": "I appreciate your honesty about the problem.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-kindness",
+    "word": "kindness",
+    "ru": "доброта",
+    "example": "Thank you for your kindness and patience.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-empathy",
+    "word": "empathy",
+    "ru": "эмпатия; сопереживание",
+    "example": "Listening carefully is one way to show empathy.",
+    "topic": "Отношения",
+    "level": "B2"
+  },
+  {
+    "id": "relationships-affection",
+    "word": "affection",
+    "ru": "привязанность; нежность",
+    "example": "He shows his affection through small acts of kindness.",
+    "topic": "Отношения",
+    "level": "B2"
+  },
+  {
+    "id": "relationships-bond",
+    "word": "bond",
+    "ru": "эмоциональная связь",
+    "example": "They formed a close bond while working together.",
+    "topic": "Отношения",
+    "level": "B2"
+  },
+  {
+    "id": "relationships-relative",
+    "word": "relative",
+    "ru": "родственник; родственница",
+    "example": "A relative is visiting us this weekend.",
+    "topic": "Отношения",
+    "level": "A2"
+  },
+  {
+    "id": "relationships-sibling",
+    "word": "sibling",
+    "ru": "брат или сестра",
+    "example": "Each child brought a sibling to the picnic.",
+    "topic": "Отношения",
+    "level": "B2"
+  },
+  {
+    "id": "relationships-partner",
+    "word": "partner",
+    "ru": "партнёр; партнёрша",
+    "example": "My partner and I share the housework.",
+    "topic": "Отношения",
+    "level": "A2"
+  },
+  {
+    "id": "relationships-couple",
+    "word": "couple",
+    "ru": "пара",
+    "example": "The couple moved into the house last spring.",
+    "topic": "Отношения",
+    "level": "A2"
+  },
+  {
+    "id": "relationships-acquaintance",
+    "word": "acquaintance",
+    "ru": "знакомый; знакомая",
+    "example": "She is an acquaintance from my evening class.",
+    "topic": "Отношения",
+    "level": "B2"
+  },
+  {
+    "id": "relationships-stranger",
+    "word": "stranger",
+    "ru": "незнакомец; незнакомка",
+    "example": "A stranger helped me find the station.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-guest",
+    "word": "guest",
+    "ru": "гость; гостья",
+    "example": "Each guest received a handwritten note.",
+    "topic": "Отношения",
+    "level": "A2"
+  },
+  {
+    "id": "relationships-host",
+    "word": "host",
+    "ru": "хозяин, принимающий гостей",
+    "example": "Our host made us feel welcome.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-invitation",
+    "word": "invitation",
+    "ru": "приглашение",
+    "example": "Thank you for the invitation to your party.",
+    "topic": "Отношения",
+    "level": "A2"
+  },
+  {
+    "id": "relationships-apology",
+    "word": "apology",
+    "ru": "извинение",
+    "example": "He offered an apology for arriving late.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-argument",
+    "word": "argument",
+    "ru": "ссора; спор",
+    "example": "They had an argument about the housework.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-compromise",
+    "word": "compromise",
+    "ru": "компромисс",
+    "example": "We found a compromise that suited everyone.",
+    "topic": "Отношения",
+    "level": "B2"
+  },
+  {
+    "id": "relationships-boundary",
+    "word": "boundary",
+    "ru": "граница допустимого в отношениях",
+    "example": "She set a clear boundary about calls during work.",
+    "topic": "Отношения",
+    "level": "B2"
+  },
+  {
+    "id": "relationships-loyal",
+    "word": "loyal",
+    "ru": "верный; преданный",
+    "example": "She has always been a loyal friend.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-jealous",
+    "word": "jealous",
+    "ru": "ревнивый; завистливый",
+    "example": "He felt jealous when his friend won the prize.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "relationships-lonely",
+    "word": "lonely",
+    "ru": "одинокий; испытывающий одиночество",
+    "example": "I felt lonely during my first week abroad.",
+    "topic": "Отношения",
+    "level": "A2"
+  },
+  {
+    "id": "relationships-generous",
+    "word": "generous",
+    "ru": "щедрый",
+    "example": "It was generous of you to share your lunch.",
+    "topic": "Отношения",
+    "level": "B1"
+  },
+  {
+    "id": "learning-lesson",
+    "word": "lesson",
+    "ru": "урок",
+    "example": "Our English lesson starts at nine.",
+    "topic": "Учёба и мышление",
+    "level": "A1"
+  },
+  {
+    "id": "learning-subject",
+    "word": "subject",
+    "ru": "учебный предмет",
+    "example": "History was my favorite subject at school.",
+    "topic": "Учёба и мышление",
+    "level": "A1"
+  },
+  {
+    "id": "learning-course",
+    "word": "course",
+    "ru": "учебный курс",
+    "example": "I signed up for a photography course.",
+    "topic": "Учёба и мышление",
+    "level": "A2"
+  },
+  {
+    "id": "learning-assignment",
+    "word": "assignment",
+    "ru": "учебное задание",
+    "example": "The assignment is due on Friday.",
+    "topic": "Учёба и мышление",
+    "level": "B1"
+  },
+  {
+    "id": "learning-essay",
+    "word": "essay",
+    "ru": "эссе; сочинение",
+    "example": "Write an essay about a place you know well.",
+    "topic": "Учёба и мышление",
+    "level": "B1"
+  },
+  {
+    "id": "learning-exam",
+    "word": "exam",
+    "ru": "экзамен",
+    "example": "I have a math exam next week.",
+    "topic": "Учёба и мышление",
+    "level": "A1"
+  },
+  {
+    "id": "learning-grade",
+    "word": "grade",
+    "ru": "оценка",
+    "example": "She got a good grade on her essay.",
+    "topic": "Учёба и мышление",
+    "level": "A2"
+  },
+  {
+    "id": "learning-certificate",
+    "word": "certificate",
+    "ru": "сертификат; свидетельство",
+    "example": "You receive a certificate when you finish the course.",
+    "topic": "Учёба и мышление",
+    "level": "B1"
+  },
+  {
+    "id": "learning-lecture",
+    "word": "lecture",
+    "ru": "лекция",
+    "example": "The lecture begins in room twelve.",
+    "topic": "Учёба и мышление",
+    "level": "B1"
+  },
+  {
+    "id": "learning-notebook",
+    "word": "notebook",
+    "ru": "тетрадь; блокнот",
+    "example": "Write the new words in your notebook.",
+    "topic": "Учёба и мышление",
+    "level": "A1"
+  },
+  {
+    "id": "learning-question",
+    "word": "question",
+    "ru": "вопрос",
+    "example": "Can I ask one more question?",
+    "topic": "Учёба и мышление",
+    "level": "A1"
+  },
+  {
+    "id": "learning-answer",
+    "word": "answer",
+    "ru": "ответ",
+    "example": "Check your answer before moving on.",
+    "topic": "Учёба и мышление",
+    "level": "A1"
+  },
+  {
+    "id": "learning-mistake",
+    "word": "mistake",
+    "ru": "ошибка",
+    "example": "It is easy to make a mistake when you rush.",
+    "topic": "Учёба и мышление",
+    "level": "A1"
+  },
+  {
+    "id": "learning-practice",
+    "word": "practice",
+    "ru": "практика; тренировка",
+    "example": "Regular practice makes speaking feel easier.",
+    "topic": "Учёба и мышление",
+    "level": "A2"
+  },
+  {
+    "id": "learning-revision",
+    "word": "revision",
+    "ru": "повторение учебного материала",
+    "example": "I set aside an hour for revision each evening.",
+    "topic": "Учёба и мышление",
+    "level": "B1"
+  },
+  {
+    "id": "learning-memory",
+    "word": "memory",
+    "ru": "память",
+    "example": "Writing things down helps my memory.",
+    "topic": "Учёба и мышление",
+    "level": "A2"
+  },
+  {
+    "id": "learning-attention",
+    "word": "attention",
+    "ru": "внимание",
+    "example": "Pay attention to the spelling of this word.",
+    "topic": "Учёба и мышление",
+    "level": "A2"
+  },
+  {
+    "id": "learning-concentration",
+    "word": "concentration",
+    "ru": "сосредоточенность; концентрация",
+    "example": "The noise outside broke my concentration.",
+    "topic": "Учёба и мышление",
+    "level": "B2"
+  },
+  {
+    "id": "learning-reasoning",
+    "word": "reasoning",
+    "ru": "рассуждение; ход мыслей",
+    "example": "Please explain the reasoning behind your answer.",
+    "topic": "Учёба и мышление",
+    "level": "B2"
+  },
+  {
+    "id": "learning-evidence",
+    "word": "evidence",
+    "ru": "доказательства; подтверждающие данные",
+    "example": "The article provides evidence for its main claim.",
+    "topic": "Учёба и мышление",
+    "level": "B2"
+  },
+  {
+    "id": "learning-assumption",
+    "word": "assumption",
+    "ru": "предположение",
+    "example": "We should check that assumption before we continue.",
+    "topic": "Учёба и мышление",
+    "level": "B2"
+  },
+  {
+    "id": "learning-conclusion",
+    "word": "conclusion",
+    "ru": "вывод; заключение",
+    "example": "What conclusion can we draw from these results?",
+    "topic": "Учёба и мышление",
+    "level": "B1"
+  },
+  {
+    "id": "learning-insight",
+    "word": "insight",
+    "ru": "глубокое понимание; проницательная мысль",
+    "example": "The interview gave us insight into her work.",
+    "topic": "Учёба и мышление",
+    "level": "B2"
+  },
+  {
+    "id": "learning-perspective",
+    "word": "perspective",
+    "ru": "точка зрения; взгляд",
+    "example": "The discussion helped me see a different perspective.",
+    "topic": "Учёба и мышление",
+    "level": "B2"
+  },
+  {
+    "id": "learning-creativity",
+    "word": "creativity",
+    "ru": "творческие способности; креативность",
+    "example": "The project gives students room for creativity.",
+    "topic": "Учёба и мышление",
+    "level": "B2"
+  },
+  {
+    "id": "verbs-notice",
+    "word": "notice",
+    "ru": "замечать",
+    "example": "Did you notice the new sign by the door?",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-realize",
+    "word": "realize",
+    "ru": "осознавать; понимать",
+    "example": "I did not realize how late it was.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-expect",
+    "word": "expect",
+    "ru": "ожидать",
+    "example": "We expect the package to arrive tomorrow.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-avoid",
+    "word": "avoid",
+    "ru": "избегать",
+    "example": "Try to avoid the main road during rush hour.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-allow",
+    "word": "allow",
+    "ru": "разрешать; позволять",
+    "example": "The rules allow each person to bring one guest.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-require",
+    "word": "require",
+    "ru": "требовать; нуждаться в",
+    "example": "Some plants require very little water.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-include",
+    "word": "include",
+    "ru": "включать в состав",
+    "example": "Please include your phone number in the message.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-involve",
+    "word": "involve",
+    "ru": "включать в себя; предполагать участие",
+    "example": "Does the job involve much travel?",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-depend",
+    "word": "depend",
+    "ru": "зависеть",
+    "example": "The final cost will depend on the size of the order.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-prefer",
+    "word": "prefer",
+    "ru": "предпочитать",
+    "example": "I prefer tea to coffee in the evening.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-compare",
+    "word": "compare",
+    "ru": "сравнивать",
+    "example": "Compare the two pictures and find the differences.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-consider",
+    "word": "consider",
+    "ru": "обдумывать; рассматривать",
+    "example": "Please consider all the options before deciding.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-decide",
+    "word": "decide",
+    "ru": "решать; принимать решение",
+    "example": "We need to decide where to meet.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-prepare",
+    "word": "prepare",
+    "ru": "готовить; подготавливать",
+    "example": "I need an hour to prepare for the interview.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-arrange",
+    "word": "arrange",
+    "ru": "организовывать; договариваться о",
+    "example": "Can you arrange a meeting for next week?",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-manage",
+    "word": "manage",
+    "ru": "справляться; суметь",
+    "example": "Did you manage to fix the printer?",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-solve",
+    "word": "solve",
+    "ru": "решать проблему или задачу",
+    "example": "We worked together to solve the problem.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-prevent",
+    "word": "prevent",
+    "ru": "предотвращать",
+    "example": "A strong cover can prevent damage during transport.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-protect",
+    "word": "protect",
+    "ru": "защищать",
+    "example": "Wear gloves to protect your hands.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-reduce",
+    "word": "reduce",
+    "ru": "сокращать; уменьшать",
+    "example": "We want to reduce the amount of paper we use.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-increase",
+    "word": "increase",
+    "ru": "увеличивать; возрастать",
+    "example": "The shop plans to increase its opening hours.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "verbs-replace",
+    "word": "replace",
+    "ru": "заменять",
+    "example": "We need to replace the broken window.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-repair",
+    "word": "repair",
+    "ru": "ремонтировать; чинить",
+    "example": "Can you repair the loose handle?",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-receive",
+    "word": "receive",
+    "ru": "получать",
+    "example": "You will receive a message when the order is ready.",
+    "topic": "Полезные глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "verbs-refuse",
+    "word": "refuse",
+    "ru": "отказываться",
+    "example": "You can refuse the offer if it does not suit you.",
+    "topic": "Полезные глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-wake-up",
+    "word": "wake up",
+    "ru": "просыпаться; будить",
+    "example": "I wake up before my alarm most days.",
+    "topic": "Фразовые глаголы",
+    "level": "A1"
+  },
+  {
+    "id": "phrasal-get-up",
+    "word": "get up",
+    "ru": "вставать с постели",
+    "example": "What time do you get up on weekdays?",
+    "topic": "Фразовые глаголы",
+    "level": "A1"
+  },
+  {
+    "id": "phrasal-sit-down",
+    "word": "sit down",
+    "ru": "садиться",
+    "example": "Please sit down and make yourself comfortable.",
+    "topic": "Фразовые глаголы",
+    "level": "A1"
+  },
+  {
+    "id": "phrasal-stand-up",
+    "word": "stand up",
+    "ru": "вставать на ноги",
+    "example": "The children stand up when it is their turn.",
+    "topic": "Фразовые глаголы",
+    "level": "A1"
+  },
+  {
+    "id": "phrasal-turn-on",
+    "word": "turn on",
+    "ru": "включать",
+    "example": "Could you turn on the kitchen light?",
+    "topic": "Фразовые глаголы",
+    "level": "A1"
+  },
+  {
+    "id": "phrasal-turn-off",
+    "word": "turn off",
+    "ru": "выключать",
+    "example": "Please turn off your phone during the performance.",
+    "topic": "Фразовые глаголы",
+    "level": "A1"
+  },
+  {
+    "id": "phrasal-put-on",
+    "word": "put on",
+    "ru": "надевать",
+    "example": "Put on a warm coat before you go outside.",
+    "topic": "Фразовые глаголы",
+    "level": "A1"
+  },
+  {
+    "id": "phrasal-take-off",
+    "word": "take off",
+    "ru": "снимать одежду или обувь",
+    "example": "Please take off your shoes at the door.",
+    "topic": "Фразовые глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "phrasal-look-for",
+    "word": "look for",
+    "ru": "искать",
+    "example": "Let's look for a quiet place to sit.",
+    "topic": "Фразовые глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "phrasal-find-out",
+    "word": "find out",
+    "ru": "выяснять; узнавать",
+    "example": "I need to find out when the shop closes.",
+    "topic": "Фразовые глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "phrasal-look-after",
+    "word": "look after",
+    "ru": "присматривать за; заботиться о",
+    "example": "Can you look after my cat this weekend?",
+    "topic": "Фразовые глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "phrasal-give-up",
+    "word": "give up",
+    "ru": "бросать; прекращать попытки",
+    "example": "Do not give up just because the first attempt failed.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-carry-on",
+    "word": "carry on",
+    "ru": "продолжать",
+    "example": "We can carry on with the discussion after lunch.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-put-off",
+    "word": "put off",
+    "ru": "откладывать",
+    "example": "Let's not put off this decision any longer.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-pick-up",
+    "word": "pick up",
+    "ru": "забирать кого-либо; подбирать",
+    "example": "I can pick up the children after school.",
+    "topic": "Фразовые глаголы",
+    "level": "A2"
+  },
+  {
+    "id": "phrasal-drop-off",
+    "word": "drop off",
+    "ru": "подвозить и высаживать; оставлять",
+    "example": "Could you drop off the parcel on your way home?",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-come-across",
+    "word": "come across",
+    "ru": "случайно наткнуться на",
+    "example": "You may come across unfamiliar words in the article.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-run-out-of",
+    "word": "run out of",
+    "ru": "исчерпать запас чего-либо",
+    "example": "We do not want to run out of water on the hike.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-get-along-with",
+    "word": "get along with",
+    "ru": "ладить с",
+    "example": "Do you get along with your new colleagues?",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-look-forward-to",
+    "word": "look forward to",
+    "ru": "с нетерпением ждать",
+    "example": "I look forward to seeing you next week.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-work-out",
+    "word": "work out",
+    "ru": "найти решение; разобраться",
+    "example": "Let's work out how to divide the tasks.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-set-up",
+    "word": "set up",
+    "ru": "создавать; организовывать",
+    "example": "They want to set up a local reading group.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-break-down",
+    "word": "break down",
+    "ru": "ломаться; выходить из строя",
+    "example": "Old cars can break down without warning.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-turn-down",
+    "word": "turn down",
+    "ru": "отклонять предложение",
+    "example": "She may turn down the job because of the long commute.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  },
+  {
+    "id": "phrasal-catch-up-with",
+    "word": "catch up with",
+    "ru": "догонять; наверстывать до уровня",
+    "example": "I studied all weekend to catch up with the class.",
+    "topic": "Фразовые глаголы",
+    "level": "B1"
+  }
+]

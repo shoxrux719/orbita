@@ -1,0 +1,3 @@
+import {hash,cookieValue,authCookie,authConfig} from "@/app/user-auth";
+import {database} from "@/db/store";
+export async function POST(request:Request){if(request.headers.get("origin")!==new URL(request.url).origin)return Response.json({error:"Недопустимый запрос"},{status:403});try{const token=cookieValue(request.headers.get("cookie"),"orbit_session");if(token)await database().prepare("DELETE FROM auth_sessions WHERE token_hash=?").bind(await hash(token)).run();return Response.json({ok:true},{headers:{"Set-Cookie":authCookie("orbit_session","",0,authConfig().origin||new URL(request.url).origin),"Cache-Control":"no-store"}});}catch{return Response.json({error:"Не удалось выйти. Попробуйте снова."},{status:503});}}
